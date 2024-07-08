@@ -21,4 +21,6 @@ pip install --upgrade openai
 ```
 
 ## Set enviroment variable
+``` powershell
 $env:OPENAI_API_KEY = 'MyTestResourceGroup'
+```
